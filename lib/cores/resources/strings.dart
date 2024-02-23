@@ -1,0 +1,1 @@
+const kTitle = 'My Shop';
